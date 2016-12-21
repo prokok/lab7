@@ -6,7 +6,9 @@ This repository contains the LAB7 material regarding basics of testthat.R
 #Suggested LINK
 
 test-package.R : https://github.com/ucb-stat159/stat159-fall-2016/tree/master/labs/lab07
-					https://journal.r-project.org/archive/2011-1/RJournal_2011-1_Wickham.pdf
+				
+
+				https://journal.r-project.org/archive/2011-1/RJournal_2011-1_Wickham.pdf
 
 					
 					
